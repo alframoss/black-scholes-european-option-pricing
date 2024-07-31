@@ -10,6 +10,6 @@ This GitHub repository contains all the work related to my research into the Bla
 - In addition, I also calculated the profitability of these options given the price of the asset at expiration. This is also displayed using a heat map that has a slider to vary the price at expiration.
 - Example profitability heat map when the price of the asset at expiration is 120.32
 - Constructed a risk-neutral pricing method of computing European option prices
+- Implement this method in Python using Monte Carlo simulations
 
-## To do
-- Implement this method in Python using Monte Carlo simulations.
+Will be up and ready soon
