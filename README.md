@@ -44,3 +44,9 @@ We also discuss the risk-neutral pricing approach which utilises a change of mea
 
 To see both heat maps, check `Black_scholes_european_heatmap.png` and `Black_scholes_european_profitability_heatmap.png`. We analyse the convergence of Monte Carlo estimations. See `Black_scholes_MC_prices.png` and `Black_scholes_MC_errors.png`.
 
+## Future Extensions
+
+- Barrier options
+- Greeks
+- Psuedorandom and quasirandom sequeunces
+
