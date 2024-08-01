@@ -38,7 +38,7 @@ A closed form solution can be derived using the heat equation. See Chapter 2.1 i
 
 ## Risk-Neutral Pricing \& Monte Carlo Method
 
-We also discuss the risk-neutral pricing approach which utilises a change of measure and the Monte Carlo method. This is discussed in great detail in Chapter 2.2-2.3 in `Black_Scholes_Project.pdf`.
+We also discuss the risk-neutral pricing approach which utilises a change of measure and the Monte Carlo method. This is discussed in great detail in Chapters 2.2-2.3 in `Black_Scholes_Project.pdf`.
 
 ## Results
 
